@@ -16,3 +16,10 @@ h2 {width: 100px;
 p {text-align: center;
 font-size: 25px;
 }
+a {
+    height: auto;
+    border-style: solid;
+    border-radius: 2cm;
+    background-color: rgba(66, 85, 76, 0.76);
+
+}
